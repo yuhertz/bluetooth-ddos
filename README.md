@@ -20,3 +20,4 @@ cd bluetooth-ddos
 python3 ddos.py
 ```
 
+This is made for educational purposes and cybersecurity engineering research. Any harm and damage caused will not be responsible.
